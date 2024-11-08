@@ -4,8 +4,8 @@ Blog CMS (Blog Content Management System) Project
 #											     #
 #	Admin-Login:  http://localhost/BlogCMS/admin/					     #
 #											     #
-#	id 	: koushil  								     #
-#	password: koushil 								     #
+#	id 	: Navya  								     #
+#	password: Navya								     #
 #											     #
 #	Create Database "blogcms" and import database file which you can get from 	     #	
 #	database folder.								     #
